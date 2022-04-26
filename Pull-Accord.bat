@@ -9,5 +9,3 @@ git pull
 echo 'Fim do pull... '
 @echo off
 timeout 2 > nul
-@echo on
-pause

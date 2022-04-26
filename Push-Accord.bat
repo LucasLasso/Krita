@@ -19,5 +19,3 @@ git push
 echo 'Fim do push... '
 @echo off
 timeout 2 > nul
-@echo on
-pause
