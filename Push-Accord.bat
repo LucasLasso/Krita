@@ -11,7 +11,7 @@ git add .
 @echo off
 timeout 2 > nul
 @echo on
-git commit -m "Novo versionamento %filedatetime%"
+git commit -m "Novo versionamento %date% -> %time%"
 @echo off
 timeout 2 > nul
 @echo on
