@@ -1,0 +1,23 @@
+How to use
+
+1. Put the folder "screentones" in your patterns folder in the user directory.
+
+2. To use screen tones 
+  
+    
+   2-a. In the brush setting, pattern section, you will find the screentones
+
+
+   2-b. Divide your document resolution by 1200. This gives you the number of the scale for the pattern.
+
+    ex. documnet resolution is 300
+       
+        300 divided by 1200 = .25
+
+         in the brush setting, in the pattern section, change the scale to .25 (don't forget to check
+         on pattern)
+
+*****this is just a guide, feel free to set your scale as you see fit********************
+  
+    
+    2-c. Start painting in your screetones 
