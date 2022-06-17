@@ -1,5 +1,5 @@
 @echo off
-cd C:\Users\lucasamorim\Downloads\Krita
+cd C:\Users\lucasamorim\Documents\Krita
 @echo on
 git status
 @echo off
