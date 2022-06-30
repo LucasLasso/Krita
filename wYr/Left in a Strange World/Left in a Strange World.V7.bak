@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<YWRITER7>
+	<PROJECT>
+		<Ver>7</Ver>
+		<Title><![CDATA[]]></Title>
+		<AuthorName><![CDATA[]]></AuthorName>
+		<Bio><![CDATA[]]></Bio>
+		<Desc><![CDATA[]]></Desc>
+		<FieldTitle1><![CDATA[]]></FieldTitle1>
+		<FieldTitle2><![CDATA[]]></FieldTitle2>
+		<FieldTitle3><![CDATA[]]></FieldTitle3>
+		<FieldTitle4><![CDATA[]]></FieldTitle4>
+		<LastFullBackup>0001-01-01</LastFullBackup>
+		<WordTarget>0</WordTarget>
+		<WordTargetStartDate>0001-01-01</WordTargetStartDate>
+		<WordTargetEndDate>0001-01-01</WordTargetEndDate>
+		<WordCountStart>0</WordCountStart>
+		<EndFrontMatterChID>0</EndFrontMatterChID>
+		<EndMiddleChID>0</EndMiddleChID>
+		<EndBeginningChID>0</EndBeginningChID>
+		<LatexSingleQuotes>0</LatexSingleQuotes>
+		<LatexSuppressChapterTitles>0</LatexSuppressChapterTitles>
+		<LatexSceneDivider></LatexSceneDivider>
+		<HtmlSceneDivider></HtmlSceneDivider>
+		<HtmlEncoding></HtmlEncoding>
+		<HtmlUnicode>0</HtmlUnicode>
+		<LaTeXHeaderFile><![CDATA[]]></LaTeXHeaderFile>
+		<MRUSpecificDate>0001-01-01</MRUSpecificDate>
+		<MRUSpecificTime>00:00:00</MRUSpecificTime>
+		<LastViewedScID>-1</LastViewedScID>
+		<DeadlineDate1>0001-01-01</DeadlineDate1>
+		<DeadlineDate2>0001-01-01</DeadlineDate2>
+		<DeadlineDate3>0001-01-01</DeadlineDate3>
+		<DeadlineDate4>0001-01-01</DeadlineDate4>
+		<DeadlineDate5>0001-01-01</DeadlineDate5>
+		<DeadlineStartDate1>0001-01-01</DeadlineStartDate1>
+		<DeadlineStartDate2>0001-01-01</DeadlineStartDate2>
+		<DeadlineStartDate3>0001-01-01</DeadlineStartDate3>
+		<DeadlineStartDate4>0001-01-01</DeadlineStartDate4>
+		<DeadlineStartDate5>0001-01-01</DeadlineStartDate5>
+		<Fields>
+		</Fields>
+
+	</PROJECT>
+
+	<LOCATIONS>
+	</LOCATIONS>
+	<ITEMS>
+	</ITEMS>
+	<CHARACTERS>
+	<CHARACTER>
+		<ID>1</ID>
+		<Title><![CDATA[Niky]]></Title>
+		<Desc><![CDATA[Arcane Thief]]></Desc>
+		<SortOrder>1</SortOrder>
+		<AKA><![CDATA[O Vagante; Arcane Thief; Lorde Demonio ]]></AKA>
+		<FullName><![CDATA[Nicollas Nerat]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>2</ID>
+		<Title><![CDATA[Hito]]></Title>
+		<SortOrder>2</SortOrder>
+		<AKA><![CDATA[Deus Sobrerano ]]></AKA>
+		<FullName><![CDATA[Deus Hito]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>3</ID>
+		<Title><![CDATA[Draky]]></Title>
+		<Desc><![CDATA[Classe: Paladin]]></Desc>
+		<SortOrder>3</SortOrder>
+		<AKA><![CDATA["Antigo Lorde do Reino do Dragões do Leste"]]></AKA>
+		<Bio><![CDATA[Draky é a forma que o Niky chama o Draekurazbrass.
+
+]]></Bio>
+		<FullName><![CDATA[Draekurazbrass "Draky" Hitzewelle]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+
+	<CHARACTER>
+		<ID>4</ID>
+		<Title><![CDATA[Rian]]></Title>
+		<Desc><![CDATA[Ice Mage]]></Desc>
+		<SortOrder>4</SortOrder>
+		<AKA><![CDATA[Rainha do Reino Draconico do Norte]]></AKA>
+		<FullName><![CDATA[Rianbrassra "Rian" Lednik]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+
+	</CHARACTERS>
+	<PROJECTNOTES>
+	</PROJECTNOTES>
+	<PROJECTVARS>
+	</PROJECTVARS>
+	<PROJECTEXPS>
+	</PROJECTEXPS>
+	<SCENES>
+	</SCENES>
+	<CHAPTERS>
+	<CHAPTER>
+		<ID>1</ID>
+		<Title><![CDATA[Chapter 1]]></Title>
+		<SortOrder>1</SortOrder>
+		<Fields>
+			<Field_SuppressChapterTitle>0</Field_SuppressChapterTitle>
+			<Field_SuppressChapterBreak>0</Field_SuppressChapterBreak>
+			<Field_UseLatexChapterTitle>1</Field_UseLatexChapterTitle>
+			<Field_LatexChapterTitle>Chapter 1 </Field_LatexChapterTitle>
+		</Fields>
+
+		<SectionStart>-1</SectionStart>
+		<Type>0</Type>
+		<ChapterType>0</ChapterType>
+	</CHAPTER>
+
+	</CHAPTERS>
+	<WCLog>
+	<WC>
+		<Date>2022-06-30</Date>
+		<Count>0</Count>
+		<TotalCount>0</TotalCount>
+	</WC>
+
+	</WCLog>
+</YWRITER7>
