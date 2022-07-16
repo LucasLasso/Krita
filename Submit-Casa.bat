@@ -1,5 +1,5 @@
 @echo off
-cd C:\DataD\Krita
+cd C:\Users\lucas\OneDrive\Documentos\Krita
 @echo on
 git status
 @echo off

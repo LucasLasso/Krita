@@ -1,5 +1,5 @@
 @echo off
-cd C:\DataD\Krita
+cd C:\Users\lucas\OneDrive\Documentos\Krita
 set filedatetime=%date% 
 set filedatetime=%filedatetime:~0,2%%filedatetime:~3,2%%filedatetime:~6,4%
 @echo on
